@@ -3,7 +3,8 @@
     "description": "Laravel Category Package",
     "keywords": [
         "datlv",
-        "laravel-category"
+        "laravel",
+        "category"
     ],
     "homepage": "https://github.com/datlv/laravel-category",
     "license": "MIT",
